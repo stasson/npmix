@@ -1,2 +1,5 @@
 # npmix
-npm toolbox
+
+A mix of NPM utils
+
+Dev on going...
